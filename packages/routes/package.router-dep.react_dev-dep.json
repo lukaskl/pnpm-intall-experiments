@@ -1,0 +1,12 @@
+{
+  "description": "",
+  "name": "@workspace/routes",
+  "dependencies": {
+    "react-router-dom": "5.2.0"
+  },
+  "devDependencies":{
+    "react": "16.14.0"
+  },
+  "private": true,
+  "version": "0.0.0"
+}
